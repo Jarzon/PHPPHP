@@ -21,7 +21,7 @@
         "php/php-src": "5.3.20"
     },
     "autoload": {
-        "psr-0": {"PHPPHP": "lib/"}
+        "psr-4": {"PHPPHP\\": "lib/"}
     },
     "config": {
         "process-timeout": 600
